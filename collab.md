@@ -41,12 +41,8 @@ git pull origin main
 ### Create a Branch for Your Task
 
 ```bash
-git checkout -b your-name/what-youre-doing
+git checkout -b tobeonchain/yieldfirstbranch
 ```
-
-Examples:
-- `josh/auth-flow`
-- `tobe/dashboard-ui`
 
 ### Make Changes, Then Commit
 
@@ -58,7 +54,7 @@ git commit -m "brief description of what you did"
 ### Push Your Branch
 
 ```bash
-git push origin your-name/what-youre-doing
+git push origin tobeonchain/yieldfirstbranch
 ```
 
 ### Open a Pull Request
